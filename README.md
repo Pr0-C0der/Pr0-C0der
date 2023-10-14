@@ -7,8 +7,6 @@
 <h3 align="center">Machine Learning enthusiast and coder. Passionate about AI and its potential to transform industries.</h3>
 <img align="right" src = "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width = 400 alt = "Coding"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr0-c0der&label=Profile%20views&color=0e75b6&style=flat" alt="pr0-c0der" /> </p>
-
 - 🌱 I’m currently learning **Rust.**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@prathamesh.gadekar)
@@ -19,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Thrive Alongside AI and Avoid Getting Replaced](https://medium.com/gitconnected/how-to-thrive-alongside-ai-and-avoid-getting-replaced-c6d9c3c44108)
+- [Blogging Made Easy: How These AI Tools Became My Blogging BFFs 🤖](https://levelup.gitconnected.com/blogging-made-easy-how-these-ai-tools-became-my-blogging-bffs-ec61de95dd64)
+- [The Dark World of Deepfakes](https://levelup.gitconnected.com/the-dark-world-of-deepfakes-4219525aa12a)
+- [Python Libraries for Lazy Data Scientists](https://levelup.gitconnected.com/python-libraries-for-lazy-data-scientists-c1287eb794ec)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
