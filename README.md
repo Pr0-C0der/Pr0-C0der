@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Machine Learning**
 
-- 📫 How to reach me **prathamesh.gadekar@hotmail.com**
+- 📫 How to reach me? **prathamesh.gadekar@hotmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
